@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Snowsy</h1>
+
+- 🔭 I’m currently working on **[brawlcord](https://github.com/brawlcord)**.
+- 📫 You can reach me at **ssnowsee@gmail.com**.
+
+---
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=snowsee&show_icons=true&theme=dracula&locale=en&hide_title=true" alt="snowsee" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowsee&theme=dracula" alt="snowsee" /></p>
 
 <!--
 **snowsee/snowsee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
