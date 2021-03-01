@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Snowsy</h1>
+# Hi 👋, I'm Snowsy
 
 - 🔭 I’m currently working on **[brawlcord](https://github.com/brawlcord)**.
 - 📫 You can reach me at **ssnowsee@gmail.com**.
